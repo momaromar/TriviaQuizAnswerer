@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 
-const USERNAME = ""; 
-const PASSWORD = ""; 
+const USERNAME = "coolm111222333"; 
+const PASSWORD = "Hamoodi22"; 
 
 const answerKey = {
     // Ninth Grade Vocabulary Quiz
